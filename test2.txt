@@ -1,3 +1,8 @@
 This file was created on Windows by Tom.
-It was edited and repushed.
-It was then edited on github.
+#<<<<<<< HEAD
+#Let's see if this breaks stuff.
+#=======
+#Edited on both ends to test merge problems.
+#>>>>>>> 123b26c01a9b542ea94612af2272866733b4297a
+
+This is going to serve as a learning tool. (# added before each line to make git stop complaining)
