@@ -1,0 +1,19 @@
+Must Read !
+
+Okay after some serious experimenting I figured out gitHub. 
+
+Toms steps he gave are fine but I learned from more experienced people than ourselves 
+That any time we want to make an adjustment to the project to follow these steps
+
+1. Make a new branch so you don’t mess with the master branch.
+ 
+2. Make whatever changes you need to make in YOUR BRANCH.
+ 
+3. Merge the branch with the master branch.
+ 
+4. Bam! you changed whatever it was.
+
+Then add commit push is useful however, if you are changing a file you must use branches so you do not
+alter the only working file we have in the git. 
+
+Also my latest commit "hopefully this helps" is the whole project so work out of that file.  
